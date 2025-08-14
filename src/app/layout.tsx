@@ -3,11 +3,12 @@ import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import { twMerge } from "tailwind-merge";
 
+
 const dmSans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Light Saas Landing Page",
-  description: "Template created by Frontend Tribe",
+  description: "Template created with the help from Frontend Tribe",
 };
 
 export default function RootLayout({
