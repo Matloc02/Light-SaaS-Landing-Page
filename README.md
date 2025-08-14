@@ -1,3 +1,4 @@
+
 # Light SaaS Landing Page
 
 A modern, responsive SaaS landing page template built with Next.js, TypeScript, and Tailwind CSS.
